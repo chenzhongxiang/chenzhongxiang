@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chenzhongxiang
+- 👋 Hi, I’m @Zhongxiang Chen
 - 👀 I’m interested in system-level development
 - 🌱 I’m currently learning ZEEK project
 - 📫 How to reach me EMAIL
